@@ -4,6 +4,8 @@
 
 혼자서 할 수 없는 구매를 도와주는 서비스 자아도취.
 
+- 주변 지역 기반 공동 구매 플랫폼
+
 💻 Backend: Django. 
 
 💻 Frontend: HTML CSS JAVASCRIPT
