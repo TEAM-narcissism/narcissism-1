@@ -12,6 +12,13 @@
 
 with AWS EC2(quited)
 
+    - OAuth
+    - Email Verify
+    - Kakao map API(SDK)
+    - Location verify algorithm
+    - User Access Control
+    
+
 🤟 김찬현 유호성 허보성 
 
 
